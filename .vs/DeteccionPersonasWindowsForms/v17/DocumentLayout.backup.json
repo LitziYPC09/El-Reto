@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Escritorio\\Consumo de API\\DeteccionPersonasWindowsForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A63AEF95-AF7C-4156-B52B-60F2E5A0AF0E}|DeteccionPersonasWindowsForms.csproj|d:\\escritorio\\consumo de api\\deteccionpersonaswindowsforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63AEF95-AF7C-4156-B52B-60F2E5A0AF0E}|DeteccionPersonasWindowsForms.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63AEF95-AF7C-4156-B52B-60F2E5A0AF0E}|DeteccionPersonasWindowsForms.csproj|D:\\Escritorio\\Consumo de API\\DeteccionPersonasWindowsForms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63AEF95-AF7C-4156-B52B-60F2E5A0AF0E}|DeteccionPersonasWindowsForms.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63AEF95-AF7C-4156-B52B-60F2E5A0AF0E}|DeteccionPersonasWindowsForms.csproj|D:\\Escritorio\\Consumo de API\\DeteccionPersonasWindowsForms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A63AEF95-AF7C-4156-B52B-60F2E5A0AF0E}|DeteccionPersonasWindowsForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Consumo de API\\DeteccionPersonasWindowsForms\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Escritorio\\Consumo de API\\DeteccionPersonasWindowsForms\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T04:48:17.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Consumo de API\\DeteccionPersonasWindowsForms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\Escritorio\\Consumo de API\\DeteccionPersonasWindowsForms\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T04:21:49.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Escritorio\\Consumo de API\\DeteccionPersonasWindowsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Escritorio\\Consumo de API\\DeteccionPersonasWindowsForms\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T04:20:05.912Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
